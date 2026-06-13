@@ -5,7 +5,7 @@ var S=document.createElement("style");
 S.textContent=".album-grid,.gal{grid-template-columns:repeat(4,1fr)!important}"+
 ".album-item{position:relative;overflow:hidden}"+
 ".photo-actions{position:absolute;bottom:4px;left:0;right:0;display:flex;justify-content:center;gap:16px;opacity:0;transition:opacity .25s;pointer-events:none;z-index:2}"+
-".album-item:hover .photo-actions{opacity:1;pointer-events:auto}"+
+".album-item:hover .photo-actions,.gali:hover .photo-actions{opacity:1;pointer-events:auto}"+
 ".photo-actions button{background:transparent;border:none;color:rgba(255,255,255,0.85);font-size:.7rem;cursor:pointer;padding:2px 8px;text-shadow:0 1px 4px rgba(0,0,0,0.6)}"+
 ".modal-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(6px)}"+
 ".modal-card{background:#0f2340;border:1px solid rgba(212,168,67,0.3);border-radius:14px;padding:28px 26px;max-width:400px;width:90%;text-align:center;box-shadow:0 12px 60px rgba(0,0,0,0.4)}"+
@@ -58,7 +58,7 @@ var it=e.target.closest(".album-item,.gali");if(!it)return;
 e.stopPropagation();e.preventDefault();
 // Compute key
 var day=it.dataset.day||"";var p=it.parentNode;var idx=p?Array.from(p.children).indexOf(it):0;
-var key="ph_"+(day||"g")+"_"+idx;it.dataset.pk=key;
+var pfx=it.classList.contains("gali")?"ph_g_":"ph_a_";var key=pfx+(day||"0")+"_"+idx;it.dataset.pk=key;
 // Check if clicking action button
 var ab=e.target.closest("[data-act]");
 if(ab){
@@ -131,7 +131,7 @@ for(var i=0;i<h.length;i++){if(h[i].textContent.indexOf("天气")>-1){w=h[i];bre
 if(!w||w.parentNode.querySelector(".wx-card"))return;
 var p=parseInt(localStorage.getItem("prog")||"0");
 var ct="成都,雅安,泸定,康定,理塘,巴塘,芒康,左贡,八宿,波密,林芝,拉萨".split(",");
-var u="101270101,101271701,101271704,101271301,101271401,101271402,101271403,101271404,101271405,101271406,101270201,101270101".split(",");
+var u="101270101,101271701,101271704,101271301,101271401,101271402,101271403,101271404,101271405,101271406,101270201,101140101".split(",");
 var cd=document.createElement("div");cd.className="wx-card";cd.style.cssText="background:rgba(74,156,212,0.08);border:1px solid rgba(74,156,212,0.15);border-radius:8px;padding:12px 14px;margin-bottom:10px";
 var hh="<div style=\"display:flex;align-items:center;gap:6px;margin-bottom:8px\"><span style=\"font-size:1.2rem\">🌤️</span><strong style=\"color:#4a9cd4;font-size:.9rem\">实时天气查询</strong><span style=\"color:#90aec8;font-size:.68rem;margin-left:auto\">中国天气网</span></div>";
 hh+="<div style=\"display:flex;flex-wrap:wrap;gap:5px\">";

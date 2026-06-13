@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% load static %}
+    <title>川藏线 G318 · 骑行社区</title>
+    <link rel="manifest" href="{% static 'rides/manifest.json' %}">
+    <meta name="theme-color" content="#d4a843">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="stylesheet" href="{% static 'rides/css/style.css' %}">
+</head>
+<body>
+    <div id="app"><!-- Vue 3 应用挂载 --></div>
+    <script src="{% static 'rides/js/vue.global.prod.js' %}"></script>
+    <script src="{% static 'rides/js/app.js' %}"></script>
+</body>
+</html>

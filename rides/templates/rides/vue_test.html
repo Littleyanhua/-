@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Vue Test</title>
+</head>
+<body>
+    <div id="app">{{ message }}</div>
+    <script src="/static/rides/js/vue.global.prod.js"></script>
+    <script>
+        const { createApp, ref } = Vue;
+        createApp({
+            setup() {
+                const message = ref('Vue 3 is WORKING!');
+                return { message };
+            }
+        }).mount('#app');
+    </script>
+</body>
+</html>

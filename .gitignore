@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+db.sqlite3
+*.sqlite3
+.DS_Store
+*.bat
+# Vercel
+.vercel
+# Django backups
+chuanzang_site/__pycache__/
+rides/__pycache__/
+rides/migrations/__pycache__/
