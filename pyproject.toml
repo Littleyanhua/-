@@ -1,0 +1,7 @@
+[project]
+name = "your-project-name"
+version = "0.1.0"
+dependencies = [
+    "django>=6.0,<6.1",
+    "whitenoise>=6.0",
+]
