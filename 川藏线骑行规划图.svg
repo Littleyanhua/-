@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1580" viewBox="0 0 1100 1580">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a2a3a"/><stop offset="12%" stop-color="#203b4e"/>
+    <stop offset="35%" stop-color="#2d4a5e"/><stop offset="100%" stop-color="#f5f0eb"/>
+  </linearGradient>
+  <linearGradient id="gld" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#d4a843"/><stop offset="50%" stop-color="#f0d070"/><stop offset="100%" stop-color="#d4a843"/>
+  </linearGradient>
+  <linearGradient id="pf" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#2d7dad" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#2d7dad" stop-opacity="0.03"/>
+  </linearGradient>
+</defs>
+<rect width="1100" height="1580" fill="url(#bg)"/>
+<rect x="0" y="0" width="1100" height="4" fill="#d4a843"/>
+<rect x="0" y="148" width="1100" height="1" fill="#d4a843" opacity="0.25"/><text x="550" y="46" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#d4a843" letter-spacing="4" opacity="0.7">G318 川藏南线</text><text x="550" y="86" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#fff" font-weight="bold">成都 → 拉萨 骑行规划图</text><text x="550" y="115" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#a0b8c8">12 天 · ~2,120 km · 翻越 14 座 4,000m+ 高山 · 累计爬升 ~20,000m</text><rect x="80" y="158" width="200" height="26" rx="4" fill="#ffffff" opacity="0.06"/>
+<text x="180" y="175" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#c0d0e0">总里程  <tspan fill="#fff" font-weight="bold">2,120 km</tspan></text><rect x="295" y="158" width="200" height="26" rx="4" fill="#ffffff" opacity="0.06"/>
+<text x="395" y="175" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#c0d0e0">最高海拔  <tspan fill="#fff" font-weight="bold">5,013 m</tspan></text><rect x="510" y="158" width="200" height="26" rx="4" fill="#ffffff" opacity="0.06"/>
+<text x="610" y="175" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#c0d0e0">累计爬升  <tspan fill="#fff" font-weight="bold">~20,000 m</tspan></text><rect x="40" y="200" width="1020" height="360" rx="8" fill="#ffffff" opacity="0.05"/>
+<text x="550" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e8d8b0" font-weight="bold">· 路线走向 ·</text><g transform="translate(60,280)"><path d="M0,170 L55,165 L110,148 L165,135 L220,128 L275,140 L330,155 L385,165 L440,155 L495,138 L565,125 L635,135 L705,150 L775,165 L845,155 L915,143 L985,165" fill="none" stroke="#d4a843" stroke-width="2.5" stroke-dasharray="5,3" opacity="0.35"/><circle cx="0" cy="170" r="5" fill="#6abf6a" stroke="#fff" stroke-width="1.5"/>
+<text x="0" y="159" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D1</text>
+<text x="0" y="187" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">雅安</text><circle cx="55" cy="165" r="5" fill="#e8a040" stroke="#fff" stroke-width="1.5"/>
+<text x="55" y="154" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D2</text>
+<text x="55" y="182" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">泸定</text><circle cx="110" cy="148" r="5" fill="#e85d5d" stroke="#fff" stroke-width="1.5"/>
+<text x="110" y="137" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D3</text>
+<text x="110" y="165" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">新都桥</text><circle cx="165" cy="135" r="5" fill="#e85d5d" stroke="#fff" stroke-width="1.5"/>
+<text x="165" y="124" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D4</text>
+<text x="165" y="152" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">理塘</text><circle cx="220" cy="128" r="5" fill="#e8a040" stroke="#fff" stroke-width="1.5"/>
+<text x="220" y="117" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D5</text>
+<text x="220" y="145" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">巴塘</text><circle cx="275" cy="140" r="5" fill="#6abf6a" stroke="#fff" stroke-width="1.5"/>
+<text x="275" y="129" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D6</text>
+<text x="275" y="157" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">芒康</text><circle cx="330" cy="155" r="5" fill="#e85d5d" stroke="#fff" stroke-width="1.5"/>
+<text x="330" y="144" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D7</text>
+<text x="330" y="172" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">左贡</text><circle cx="385" cy="165" r="5" fill="#e8a040" stroke="#fff" stroke-width="1.5"/>
+<text x="385" y="154" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D8</text>
+<text x="385" y="182" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">八宿</text><circle cx="440" cy="155" r="5" fill="#e8a040" stroke="#fff" stroke-width="1.5"/>
+<text x="440" y="144" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D9</text>
+<text x="440" y="172" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">波密</text><circle cx="495" cy="138" r="5" fill="#e85d5d" stroke="#fff" stroke-width="1.5"/>
+<text x="495" y="127" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D10</text>
+<text x="495" y="155" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">八一镇</text><circle cx="565" cy="125" r="5" fill="#e8a040" stroke="#fff" stroke-width="1.5"/>
+<text x="565" y="114" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D11</text>
+<text x="565" y="142" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">松多</text><circle cx="635" cy="135" r="5" fill="#e8a040" stroke="#fff" stroke-width="1.5"/>
+<text x="635" y="124" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#fff">D12</text>
+<text x="635" y="152" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#b0c8d8">拉萨</text><text x="-8" y="174" text-anchor="end" font-family="sans-serif" font-size="9" fill="#f0d070" font-weight="bold">成都</text><text x="643" y="139" text-anchor="start" font-family="sans-serif" font-size="9" fill="#f0d070" font-weight="bold">拉萨</text><text x="165" y="120" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△折多山 4298m</text><text x="330" y="100" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△卡子拉 4718m</text><text x="440" y="115" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△海子山 4685m</text><text x="550" y="95" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△东达山 5008m</text><text x="705" y="125" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△业拉山 4658m</text><text x="845" y="118" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△色季拉 4728m</text><text x="945" y="138" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△米拉山 5013m</text></g><g transform="translate(60,545)" font-family="sans-serif" font-size="7.5" fill="#90a8b8">
+<circle cx="0" cy="-3" r="3.5" fill="#e85d5d"/><text x="9" y="0">极限</text>
+<circle cx="55" cy="-3" r="3.5" fill="#e8a040"/><text x="64" y="0">困难</text>
+<circle cx="115" cy="-3" r="3.5" fill="#6abf6a"/><text x="124" y="0">适中</text>
+<text x="185" y="0" fill="#e8a040">△ 海拔4,000m+垭口</text>
+</g><rect x="40" y="560" width="1020" height="310" rx="8" fill="#ffffff" opacity="0.05"/>
+<text x="550" y="590" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e8d8b0" font-weight="bold">· 海拔剖面 ·</text><line x1="120" y1="850" x2="980" y2="850" stroke="#fff" stroke-opacity="0.05" stroke-width="1"/><text x="114" y="853" text-anchor="end" font-family="sans-serif" font-size="7" fill="#708898">0m</text><line x1="120" y1="812.2641509433962" x2="980" y2="812.2641509433962" stroke="#fff" stroke-opacity="0.05" stroke-width="1"/><text x="114" y="815.2641509433962" text-anchor="end" font-family="sans-serif" font-size="7" fill="#708898">1000m</text><line x1="120" y1="774.5283018867924" x2="980" y2="774.5283018867924" stroke="#fff" stroke-opacity="0.05" stroke-width="1"/><text x="114" y="777.5283018867924" text-anchor="end" font-family="sans-serif" font-size="7" fill="#708898">2000m</text><line x1="120" y1="736.7924528301887" x2="980" y2="736.7924528301887" stroke="#fff" stroke-opacity="0.05" stroke-width="1"/><text x="114" y="739.7924528301887" text-anchor="end" font-family="sans-serif" font-size="7" fill="#708898">3000m</text><line x1="120" y1="699.0566037735849" x2="980" y2="699.0566037735849" stroke="#fff" stroke-opacity="0.05" stroke-width="1"/><text x="114" y="702.0566037735849" text-anchor="end" font-family="sans-serif" font-size="7" fill="#708898">4000m</text><line x1="120" y1="661.3207547169811" x2="980" y2="661.3207547169811" stroke="#fff" stroke-opacity="0.05" stroke-width="1"/><text x="114" y="664.3207547169811" text-anchor="end" font-family="sans-serif" font-size="7" fill="#708898">5000m</text><polygon points="120,830.6792452830189 191.66666666666666,825.8490566037735 263.3333333333333,799.811320754717 335,719.433962264151 406.66666666666663,698.5283018867924 478.33333333333337,752.6415094339623 550,703.7735849056604 621.6666666666667,708.4905660377358 693.3333333333333,726.9811320754717 765,746.2264150943396 836.6666666666667,739.433962264151 908.3333333333333,688.1886792452831 980,712.2641509433962 980,850 120,850" fill="url(#pf)"/><polyline points="120,830.6792452830189 191.66666666666666,825.8490566037735 263.3333333333333,799.811320754717 335,719.433962264151 406.66666666666663,698.5283018867924 478.33333333333337,752.6415094339623 550,703.7735849056604 621.6666666666667,708.4905660377358 693.3333333333333,726.9811320754717 765,746.2264150943396 836.6666666666667,739.433962264151 908.3333333333333,688.1886792452831 980,712.2641509433962" fill="none" stroke="#4a9cd4" stroke-width="2.5"/><line x1="191.66666666666666" y1="825.8490566037735" x2="191.66666666666666" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="191.66666666666666" cy="825.8490566037735" r="3" fill="#6abf6a"/>
+<text x="191.66666666666666" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D1</text><line x1="263.3333333333333" y1="799.811320754717" x2="263.3333333333333" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="263.3333333333333" cy="799.811320754717" r="3" fill="#e8a040"/>
+<text x="263.3333333333333" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D2</text><line x1="335" y1="719.433962264151" x2="335" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="335" cy="719.433962264151" r="3" fill="#e85d5d"/>
+<text x="335" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D3</text><line x1="406.66666666666663" y1="698.5283018867924" x2="406.66666666666663" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="406.66666666666663" cy="698.5283018867924" r="3" fill="#e85d5d"/>
+<text x="406.66666666666663" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D4</text><line x1="478.33333333333337" y1="752.6415094339623" x2="478.33333333333337" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="478.33333333333337" cy="752.6415094339623" r="3" fill="#e8a040"/>
+<text x="478.33333333333337" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D5</text><line x1="550" y1="703.7735849056604" x2="550" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="550" cy="703.7735849056604" r="3" fill="#6abf6a"/>
+<text x="550" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D6</text><line x1="621.6666666666667" y1="708.4905660377358" x2="621.6666666666667" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="621.6666666666667" cy="708.4905660377358" r="3" fill="#e85d5d"/>
+<text x="621.6666666666667" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D7</text><line x1="693.3333333333333" y1="726.9811320754717" x2="693.3333333333333" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="693.3333333333333" cy="726.9811320754717" r="3" fill="#e8a040"/>
+<text x="693.3333333333333" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D8</text><line x1="765" y1="746.2264150943396" x2="765" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="765" cy="746.2264150943396" r="3" fill="#e8a040"/>
+<text x="765" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D9</text><line x1="836.6666666666667" y1="739.433962264151" x2="836.6666666666667" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="836.6666666666667" cy="739.433962264151" r="3" fill="#e85d5d"/>
+<text x="836.6666666666667" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D10</text><line x1="908.3333333333333" y1="688.1886792452831" x2="908.3333333333333" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="908.3333333333333" cy="688.1886792452831" r="3" fill="#e8a040"/>
+<text x="908.3333333333333" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D11</text><line x1="980" y1="712.2641509433962" x2="980" y2="850" stroke="#fff" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="2,3"/>
+<circle cx="980" cy="712.2641509433962" r="3" fill="#e8a040"/>
+<text x="980" y="866" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#708898">D12</text><line x1="335" y1="687.8113207547169" x2="335" y2="669.8113207547169" stroke="#e8a040" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="335" y="665.8113207547169" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△折多山 4298</text><line x1="406.66666666666663" y1="671.9622641509434" x2="406.66666666666663" y2="653.9622641509434" stroke="#e8a040" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="406.66666666666663" y="649.9622641509434" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△卡子拉 4718</text><line x1="478.33333333333337" y1="673.2075471698113" x2="478.33333333333337" y2="655.2075471698113" stroke="#e8a040" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="478.33333333333337" y="651.2075471698113" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△海子山 4685</text><line x1="621.6666666666667" y1="661.0188679245283" x2="621.6666666666667" y2="643.0188679245283" stroke="#e8a040" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="621.6666666666667" y="639.0188679245283" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△东达山 5008</text><line x1="693.3333333333333" y1="674.2264150943396" x2="693.3333333333333" y2="656.2264150943396" stroke="#e8a040" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="693.3333333333333" y="652.2264150943396" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△业拉山 4658</text><line x1="836.6666666666667" y1="671.5849056603773" x2="836.6666666666667" y2="653.5849056603773" stroke="#e8a040" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="836.6666666666667" y="649.5849056603773" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△色季拉 4728</text><line x1="980" y1="660.8301886792453" x2="980" y2="642.8301886792453" stroke="#e8a040" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="980" y="638.8301886792453" text-anchor="middle" font-family="sans-serif" font-size="6.5" fill="#e8a040">△米拉山 5013</text><text x="120" y="822.6792452830189" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#f0d070" font-weight="bold">成都 512m</text><text x="980" y="704.2641509433962" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#f0d070" font-weight="bold">拉萨 3650m</text><rect x="30" y="888" width="1040" height="560" rx="8" fill="#ffffff" opacity="0.05"/>
+<text x="550" y="920" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e8d8b0" font-weight="bold">· 每日行程 ·</text><g transform="translate(38,940)" font-family="sans-serif" font-size="8.5"><rect x="0" y="0" width="36" height="22" rx="3" fill="#d4a843" opacity="0.25"/><text x="18" y="15" text-anchor="middle" fill="#e8d8b0" font-weight="bold">天</text><rect x="40" y="0" width="200" height="22" rx="3" fill="#d4a843" opacity="0.25"/><text x="140" y="15" text-anchor="middle" fill="#e8d8b0" font-weight="bold">起点 → 终点</text><rect x="244" y="0" width="66" height="22" rx="3" fill="#d4a843" opacity="0.25"/><text x="277" y="15" text-anchor="middle" fill="#e8d8b0" font-weight="bold">里程</text><rect x="314" y="0" width="86" height="22" rx="3" fill="#d4a843" opacity="0.25"/><text x="357" y="15" text-anchor="middle" fill="#e8d8b0" font-weight="bold">海拔变化</text><rect x="404" y="0" width="310" height="22" rx="3" fill="#d4a843" opacity="0.25"/><text x="559" y="15" text-anchor="middle" fill="#e8d8b0" font-weight="bold">经过垭口 / 地形</text><rect x="718" y="0" width="50" height="22" rx="3" fill="#d4a843" opacity="0.25"/><text x="743" y="15" text-anchor="middle" fill="#e8d8b0" font-weight="bold">难度</text></g><g transform="translate(38,966)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.03)"/>
+<circle cx="10" cy="14" r="3.5" fill="#6abf6a"/>
+<text x="22" y="17" fill="#c0d8e8">D1</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">成都 → 雅安</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">140km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">512m→640m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">-</text>
+<text x="743" y="17" text-anchor="middle" fill="#6abf6a">★★★</text>
+</g><g transform="translate(38,996)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.06)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e8a040"/>
+<text x="22" y="17" fill="#c0d8e8">D2</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">雅安 → 泸定</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">135km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">640m→1330m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">二郎山隧道2200m</text>
+<text x="743" y="17" text-anchor="middle" fill="#e8a040">★★★★</text>
+</g><g transform="translate(38,1026)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.03)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e85d5d"/>
+<text x="22" y="17" fill="#c0d8e8">D3</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">泸定 → 新都桥</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">130km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">1330m→3460m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">折多山 4298m</text>
+<text x="743" y="17" text-anchor="middle" fill="#e85d5d">★★★★★</text>
+</g><g transform="translate(38,1056)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.06)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e85d5d"/>
+<text x="22" y="17" fill="#c0d8e8">D4</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">新都桥 → 理塘</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">200km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">3460m→4014m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">剪子湾4659/卡子拉4718</text>
+<text x="743" y="17" text-anchor="middle" fill="#e85d5d">★★★★★</text>
+</g><g transform="translate(38,1086)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.03)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e8a040"/>
+<text x="22" y="17" fill="#c0d8e8">D5</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">理塘 → 巴塘</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">190km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">4014m→2580m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">海子山 4685m</text>
+<text x="743" y="17" text-anchor="middle" fill="#e8a040">★★★★</text>
+</g><g transform="translate(38,1116)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.06)"/>
+<circle cx="10" cy="14" r="3.5" fill="#6abf6a"/>
+<text x="22" y="17" fill="#c0d8e8">D6</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">巴塘 → 芒康</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">110km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">2580m→3875m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">宗巴拉山 4150m</text>
+<text x="743" y="17" text-anchor="middle" fill="#6abf6a">★★★</text>
+</g><g transform="translate(38,1146)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.03)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e85d5d"/>
+<text x="22" y="17" fill="#c0d8e8">D7</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">芒康 → 左贡</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">160km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">3875m→3750m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">拉乌4338/觉巴3890/东达5008</text>
+<text x="743" y="17" text-anchor="middle" fill="#e85d5d">★★★★★</text>
+</g><g transform="translate(38,1176)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.06)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e8a040"/>
+<text x="22" y="17" fill="#c0d8e8">D8</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">左贡 → 八宿</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">200km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">3750m→3260m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">业拉山4658/怒江72拐</text>
+<text x="743" y="17" text-anchor="middle" fill="#e8a040">★★★★</text>
+</g><g transform="translate(38,1206)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.03)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e8a040"/>
+<text x="22" y="17" fill="#c0d8e8">D9</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">八宿 → 波密</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">220km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">3260m→2750m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">安久拉山 4325m</text>
+<text x="743" y="17" text-anchor="middle" fill="#e8a040">★★★★</text>
+</g><g transform="translate(38,1236)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.06)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e85d5d"/>
+<text x="22" y="17" fill="#c0d8e8">D10</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">波密 → 八一镇</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">210km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">2750m→2930m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">色季拉山 4728m</text>
+<text x="743" y="17" text-anchor="middle" fill="#e85d5d">★★★★★</text>
+</g><g transform="translate(38,1266)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.03)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e8a040"/>
+<text x="22" y="17" fill="#c0d8e8">D11</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">八一镇 → 松多</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">230km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">2930m→4288m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">持续缓上至松多</text>
+<text x="743" y="17" text-anchor="middle" fill="#e8a040">★★★★</text>
+</g><g transform="translate(38,1296)" font-family="sans-serif" font-size="8">
+<rect x="0" y="0" width="770" height="28" rx="2" fill="rgba(255,255,255,0.06)"/>
+<circle cx="10" cy="14" r="3.5" fill="#e8a040"/>
+<text x="22" y="17" fill="#c0d8e8">D12</text>
+<text x="140" y="17" text-anchor="middle" fill="#fff">松多 → 拉萨</text>
+<text x="277" y="17" text-anchor="middle" fill="#c0d8e8">170km</text>
+<text x="357" y="17" text-anchor="middle" fill="#c0d8e8">4288m→3650m</text>
+<text x="559" y="17" text-anchor="middle" fill="#e8a040" font-size="7.5">米拉山 5013m</text>
+<text x="743" y="17" text-anchor="middle" fill="#e8a040">★★★★</text>
+</g><rect x="0" y="1544" width="1100" height="36" fill="#1a2a3a"/>
+<text x="550" y="1566" text-anchor="middle" font-family="sans-serif" font-size="7.5" fill="#607888">骑行有风险，出行需谨慎  |  数据仅供参考，以实际路况为准  |  川藏线骑行计划书 · 2026年暑假</text></svg>
