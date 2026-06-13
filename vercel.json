@@ -1,14 +1,15 @@
-﻿{
-  "buildCommand": "pip install -r requirements.txt",
-  "outputDirectory": ".",
-  "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/index.py" },
-    { "source": "/(.*)", "destination": "/" }
-  ],
-  "functions": {
-    "api/index.py": {
-      "runtime": "python3.12",
-      "maxDuration": 30
+{
+  "builds": [
+    {
+      "src": "chuanzang_site/wsgi.py",
+      "use": "@vercel/python",
+      "config": { "runtime": "python3.12" }
     }
-  }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "chuanzang_site/wsgi.py"
+    }
+  ]
 }
